@@ -1,1 +1,1 @@
-# RAG_System
+# rag-for-beginners
